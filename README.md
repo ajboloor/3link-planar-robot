@@ -1,4 +1,4 @@
-Report: To open the report, go to ajboloor.github.io/3link-planar-robot ,alternatively download the repo and the launch ESE446Project_JagadishBoloor_Adith.htm file on a browswer. It needs ESE446Project_JagadishBoloor_Adith_files to be in the same directory for images to appear.
+Report: To open the report, go to [ajboloor.github.io/3link-planar-robot](ajboloor.github.io/3link-planar-robot) ,alternatively download the repo and the launch ESE446Project_JagadishBoloor_Adith.htm file on a browswer. It needs ESE446Project_JagadishBoloor_Adith_files to be in the same directory for images to appear.
 
 Sample:
 
